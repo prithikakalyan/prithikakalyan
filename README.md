@@ -1,4 +1,4 @@
-## Hi, I'm Pri! 👋
+## Hi, I'm Prithika! 👋
 
 I'm a Business Analytics & AI student at The University of Texas at Dallas, minoring in Psychology. I'm passionate about artificial intelligence, data analytics, and understanding human behavior. I’m especially interested in using data and AI to solve meaningful problems and improve decision-making in business.
 ## 🔭 Currently Working On...
